@@ -1,2 +1,2 @@
 # recipes
-some html practice 
+just a practice html project beginner stuff
